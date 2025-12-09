@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to my digital universe! I am **Deekshitha D V**, a Data Analyst and the "Time Weaver." 
+Welcome to my digital universe! I am **Deekshitha D V**, a Data Analyst 
 
 This portfolio isn't just a static resume—it's a living, breathing application built with modern web technologies. It showcases my journey through code, data, and design, featuring smooth animations and a responsive interface that adapts to any device.
 
